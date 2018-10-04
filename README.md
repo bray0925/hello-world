@@ -1,2 +1,2 @@
 # hello-world
-testing or learning repository
+Testing or learning repository
